@@ -1,0 +1,15 @@
+# Jupyter Notebook hidden checkpoints
+.ipynb_checkpoints/
+
+# Python caching background files
+__pycache__/
+*.pyc
+
+# Local Python virtual environments
+venv/
+.venv/
+env/
+
+# Data safety (Ignores your actual dataset if it's a giant CSV file)
+*.csv
+*.xlsx
